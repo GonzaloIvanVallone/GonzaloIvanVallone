@@ -1,3 +1,4 @@
+!(https://p4.wallpaperbetter.com/wallpaper/478/36/1021/video-game-sekiro-shadows-die-twice-samurai-hd-wallpaper-preview.jpg)
 # Gonzalo Vallone
 Tengo 27 años, soy FullStack Web Developer y me interesa aprender mas sobre backend y manejo de base de datos.
 Actualmente me encuentro en busqueda activa de mi primer trabajo como desarrollador de software.
