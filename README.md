@@ -15,4 +15,4 @@ JavaScript, React, Git, GitHub, NodeJs, Express y postreSQL
 ## Contacto
 ◾ Mail: GonzaloValloneIvan@gmail.com\
 ◾ Celular: 221 355-2162\
-◾ Linkedin:https://www.linkedin.com/in/gonzalovallone/
+◾ Linkedin: https://www.linkedin.com/in/gonzalovallone/
