@@ -13,5 +13,6 @@ Las tecnologias que utilizo actualmente son:
 JavaScript, React, Git, GitHub, NodeJs, Express y postreSQL
 
 ## Contacto
-◾ Mail: GonzaloValloneIvan@gmail.com
-◾ Celular: 221 355-2162
+◾ Mail: GonzaloValloneIvan@gmail.com\
+◾ Celular: 221 355-2162\
+◾ Linkedin:https://www.linkedin.com/in/gonzalovallone/
