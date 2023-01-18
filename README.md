@@ -10,3 +10,7 @@ Mi objetivo personal es tener el conocimiento suficiente como para poder desarro
 
 Las tecnologias que utilizo actualmente son:
 JavaScript, React, Git, GitHub, NodeJs, Express y postreSQL
+
+## Contacto
+◾ Mail: GonzaloValloneIvan@gmail.com
+◾ Celular: 221 355-2162
