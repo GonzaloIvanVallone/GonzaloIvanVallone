@@ -2,7 +2,7 @@
 # Gonzalo Vallone (:argentina: :star: :star: :star:)
 Tengo 27 años, soy Full Stack Developer y me interesa aprender mas sobre backend y manejo de base de datos.\
 Actualmente me encuentro en busqueda activa de mi primer trabajo como desarrollador de software.\
-Me gusta ser conciso 
+Me gusta ser conciso.
 
 ## Mis Objetivos
 
