@@ -6,7 +6,7 @@ Me gusta ser conciso.
 
 ## Mis Objetivos
 
-Mi objetivo personal es tener el conocimiento suficiente como para poder desarrollar videojuegos y trabajar por mi cuenta.
+Mi objetivo personal es tener el conocimiento suficiente como para poder desarrollar videojuegos.
 
 ## Tecnologias
 
