@@ -11,7 +11,7 @@ Mi objetivo personal es tener el conocimiento suficiente como para poder desarro
 ## Tecnologias
 
 Las tecnologias que utilizo actualmente son:
-JavaScript, React, NodeJs, CSS, HTML, Express y postreSQL
+JavaScript, React, NodeJs, CSS, HTML, Express y postgreSQL
 
 ## Contacto
 ◾ Mail: GonzaloValloneIvan@gmail.com\
