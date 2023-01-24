@@ -13,7 +13,7 @@ Mi objetivo personal es tener el conocimiento suficiente como para poder desarro
 Las tecnologias que utilizo actualmente son:
 JavaScript, React, NodeJs, CSS, HTML, Express y postgreSQL
 
-### :star: Activity
+## :star: Actividad
 ![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=GonzaloIvanVallone)
 
 ## Contacto
