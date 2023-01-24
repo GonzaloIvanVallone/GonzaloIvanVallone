@@ -14,7 +14,7 @@ Las tecnologias que utilizo actualmente son:
 JavaScript, React, NodeJs, CSS, HTML, Express y postgreSQL
 
 ## Actividad :star:
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=GonzaloIvanVallone)
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=GonzaloIvanVallone&theme=dark&background=000000)
 
 ## Contacto
 ◾ Mail: GonzaloValloneIvan@gmail.com\
