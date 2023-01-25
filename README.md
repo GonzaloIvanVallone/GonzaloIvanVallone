@@ -18,5 +18,5 @@ JavaScript, React, NodeJs, CSS, HTML, Express y postgreSQL
 
 ## Contacto
 ◾ Mail: GonzaloValloneIvan@gmail.com\
-◾ Celular: 221 355-2162\
+◾ Celular: 221 355-2162 o 221 420-1040\
 ◾ Linkedin: https://www.linkedin.com/in/gonzalovallone/
