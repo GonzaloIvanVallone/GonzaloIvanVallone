@@ -13,6 +13,7 @@ My personal goal is to have enough knowledge to be able to develop video games.
 
 The technologies I currently use are:
 JavaScript, React, NodeJs, CSS, HTML, Sequelize and postgreSQL
+Java, Spring, Hibernate, OracleDB, Maven, Tomcat
 
 
 ## Actividad :star:
