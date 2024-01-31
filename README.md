@@ -1,7 +1,7 @@
 ![logo](https://p4.wallpaperbetter.com/wallpaper/478/36/1021/video-game-sekiro-shadows-die-twice-samurai-hd-wallpaper-preview.jpg)
 # Gonzalo Vallone
 
-I am 27 years old, I am a Full Stack Developer and I am interested in learning more about backend and database management.
+I am 28 years old, I am a Full Stack Developer and I am interested in learning more about backend and database management.
 I am currently actively looking for my first job as a software developer.
 I like to be concise.
 
@@ -13,7 +13,7 @@ My personal goal is to have enough knowledge to be able to develop video games.
 
 The technologies I currently use are:
 JavaScript, React, NodeJs, CSS, HTML, Sequelize and postgreSQL
-Java, Spring, Hibernate, OracleDB, Maven, Tomcat, Postman, Oracle SQL Developer
+Java, Spring, Hibernate, Maven, Tomcat, Postman, Swagger
 
 
 ## Actividad :star:
@@ -21,5 +21,5 @@ Java, Spring, Hibernate, OracleDB, Maven, Tomcat, Postman, Oracle SQL Developer
 
 ## Contacto
 ◾ Mail: GonzaloValloneIvan@gmail.com\
-◾ Celular: 221 355-2162 o 221 420-1040\
+◾ Celular: 221 355-2162\
 ◾ Linkedin: https://www.linkedin.com/in/gonzalovallone/
